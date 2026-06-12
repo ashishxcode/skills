@@ -1,5 +1,5 @@
 ---
-name: component-gen
+name: generate
 description: Generate new React components following project patterns and conventions. Use when creating components or features.
 allowed-tools: Write, Read, Glob, Grep
 ---

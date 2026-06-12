@@ -1,5 +1,5 @@
 ---
-name: frontend-review
+name: review
 description: Review React/Vite frontend code for quality, performance, security, and best practices. Use when reviewing PRs, code changes, or providing feedback.
 allowed-tools: Read, Grep, Glob, Bash(git:*)
 ---

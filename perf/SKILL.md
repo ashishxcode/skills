@@ -1,5 +1,5 @@
 ---
-name: perf-audit
+name: perf
 description: Analyze React application performance including bundle size, component rendering, and Core Web Vitals. Use when checking performance or optimizing.
 allowed-tools: Bash, Read, Glob, Grep
 ---

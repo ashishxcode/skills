@@ -1,5 +1,5 @@
 ---
-name: migrate-api
+name: api-migration
 description: Migrate legacy imperative API hooks (useXxxAPI.js with hand-rolled async + loading state) into a feature's api/ folder using TanStack Query — queries, mutations, and centralized query keys. Use when migrating legacy data-fetching, paying down src/api debt, or moving an API into a feature.
 allowed-tools: Read, Write, Edit, Glob, Grep, Bash(git:*)
 ---

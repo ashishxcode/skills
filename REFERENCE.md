@@ -43,14 +43,14 @@ This directory contains specialized skills for maintaining high-quality React ap
 
 **Available Skills:**
 
-| Skill                  | Purpose                        | Trigger                              |
-| ---------------------- | ------------------------------ | ------------------------------------ |
-| `react-best-practices` | 37 Vercel performance rules    | Auto-applied                         |
-| `review`               | Frontend code review checklist | "review this PR" or "review src/..." |
-| `component-gen`        | Generate React components      | "generate a UserCard component"      |
-| `refactor`             | Fix code smells                | "refactor this file"                 |
-| `perf-audit`           | Performance analysis           | "audit performance"                  |
-| `commit`               | Organize conventional commits  | "organize my commits"                |
+| Skill              | Purpose                     | Trigger                              |
+| ------------------ | --------------------------- | ------------------------------------ |
+| `react-perf`       | 37 Vercel performance rules | Auto-applied                         |
+| `review`           | Code review checklist        | "review this PR" or "review src/..." |
+| `generate`         | Generate React components   | "generate a UserCard component"      |
+| `refactor`         | Fix code smells             | "refactor this file"                 |
+| `perf`             | Performance analysis        | "audit performance"                  |
+| `commit`           | Organize conventional commits | "organize my commits"               |
 
 ---
 
